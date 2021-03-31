@@ -41,7 +41,7 @@ async def thread():
                         i += 1
                         sent_requests += 1
                         print("Success! "+str(i))
-                time.sleep(delay)
+                    time.sleep(delay)
     
 
 
